@@ -20,10 +20,10 @@ app.get("/", (req, res) => {
 });
 
 // Routes
-app.use('/api/auth', require('./routes/auth'));
-app.use('/api/transactions', require('./routes/transactions'));
-app.use('/api/friends', require('./routes/friends'));
-app.use('/api/splits', require('./routes/splits'));
+//app.use('/api/auth', require('./routes/auth'));
+//app.use('/api/transactions', require('./routes/transactions'));
+//app.use('/api/friends', require('./routes/friends'));
+//app.use('/api/splits', require('./routes/splits'));
 
 // Error handling middleware
 app.use((err, req, res, next) => {
