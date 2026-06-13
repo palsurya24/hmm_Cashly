@@ -6,17 +6,18 @@ It helps users track income/expenses, split bills, and manage finances efficient
 #Live Links
 
 -Live App: https://hmm-cashly.vercel.app
+
 -Backend API: https://hmm-cashly-1.onrender.com/api
 
 # Tech Stack
 
-Frontend: React.js, Material-UI
-Backend: Node.js, Express.js
-Database: MongoDB Atlas
-Authentication: JWT (JSON Web Token)
-API Handling: Axios
-Data Visualization: Recharts
-State Management: React Context API
+- Frontend: React.js, Material-UI
+- Backend: Node.js, Express.js
+- Database: MongoDB Atlas
+- Authentication: JWT (JSON Web Token)
+- API Handling: Axios
+- Data Visualization: Recharts
+- State Management: React Context API
 
 # Features
 
