@@ -23,35 +23,35 @@ It helps users track income/expenses, split bills, and manage finances efficient
 
 # Track & Manage Finances
 
-Add income & expense transactions
-Categorize data by type & date
-Auto wallet balance updates
-Supports 100+ transactions handling
+- Add income & expense transactions
+- Categorize data by type & date
+- Auto wallet balance updates
+- Supports 100+ transactions handling
 
 # Recurring Transactions
 
-Weekly & monthly recurring entries
-Automated processing system
-Accurate balance tracking
+- Weekly & monthly recurring entries
+- Automated processing system
+- Accurate balance tracking
 
 # Split Bills System
 
-Add friends easily
-Split expenses among multiple users
-Track who owes whom
-Real-time settlement updates
+- Add friends easily
+- Split expenses among multiple users
+- Track who owes whom
+- Real-time settlement updates
 
 # Secure Authentication
 
-JWT-based authentication system
-Protected routes
-Secure API communication
+- JWT-based authentication system
+- Protected routes
+- Secure API communication
 
  # Data Visualization
  
-Interactive charts using Recharts
-Income vs Expense insights
-Financial analytics dashboard
+- Interactive charts using Recharts
+- Income vs Expense insights
+- Financial analytics dashboard
 
 # Environment Variables
 
